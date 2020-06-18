@@ -5,9 +5,8 @@ This repository is included as a submodule in the main [site repo](https://githu
 
 ## Directories
 
-├── codelabs - contains codelabs that will be served up on https://codelabs.solace.dev/. The raw markdown file is exported into this directory via the claat tool.  
-├── markdown - This directory contains the markdown file that the codelabs were generated from.     
-└── init.sh - bootstrap script      
+- codelabs - contains codelabs that will be served up on https://codelabs.solace.dev/. The raw markdown file is exported into this directory via the claat tool.  
+- markdown - This directory contains the markdown file that the codelabs were generated from.     
 
 ## How to Contribute
 ### Option 1 - Script
